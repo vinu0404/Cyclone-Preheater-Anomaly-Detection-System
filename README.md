@@ -4,7 +4,7 @@ Cyclone-Preheater-Anomaly-Detection-System
 Cyclone-Preheater-Anomaly-Detection-System
 │
 ├── feature_engineering.py        # Feature engineering utilities for Streamlit app
-├── Algo8.ipynb                   # Full experiment / training notebook
+├── main.ipynb                   # Full experiment / training notebook
 ├── app.py                        # Streamlit web application
 ├── data.csv                      # Training dataset
 │
